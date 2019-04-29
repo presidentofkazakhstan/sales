@@ -1,0 +1,11 @@
+C:\Users\Windows10\source\repos\sales_HM\sales.DataAccess\bin\Debug\sample.mdf
+C:\Users\Windows10\source\repos\sales_HM\sales.DataAccess\bin\Debug\sample_log.ldf
+C:\Users\Windows10\source\repos\sales_HM\sales.DataAccess\bin\Debug\sales.DataAccess.dll
+C:\Users\Windows10\source\repos\sales_HM\sales.DataAccess\bin\Debug\sales.DataAccess.pdb
+C:\Users\Windows10\source\repos\sales_HM\sales.DataAccess\bin\Debug\sales.Models.dll
+C:\Users\Windows10\source\repos\sales_HM\sales.DataAccess\bin\Debug\sales.Models.pdb
+C:\Users\Windows10\source\repos\sales_HM\sales.DataAccess\obj\Debug\sales.DataAccess.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\sales_HM\sales.DataAccess\obj\Debug\sales.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\sales_HM\sales.DataAccess\obj\Debug\sales.DataAccess.csproj.CopyComplete
+C:\Users\Windows10\source\repos\sales_HM\sales.DataAccess\obj\Debug\sales.DataAccess.dll
+C:\Users\Windows10\source\repos\sales_HM\sales.DataAccess\obj\Debug\sales.DataAccess.pdb

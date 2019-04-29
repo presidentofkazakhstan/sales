@@ -1,0 +1,14 @@
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\bin\Debug\sample.mdf
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\bin\Debug\sample_log.ldf
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\bin\Debug\sales_HM.exe.config
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\bin\Debug\sales_HM.exe
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\bin\Debug\sales_HM.pdb
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\bin\Debug\sales.DataAccess.dll
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\bin\Debug\sales.Models.dll
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\bin\Debug\sales.DataAccess.pdb
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\bin\Debug\sales.Models.pdb
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\obj\Debug\sales.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\obj\Debug\sales.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\obj\Debug\sales.ConsoleApp.csproj.CopyComplete
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\obj\Debug\sales_HM.exe
+C:\Users\Windows10\source\repos\sales_HM\sales_HM\obj\Debug\sales_HM.pdb

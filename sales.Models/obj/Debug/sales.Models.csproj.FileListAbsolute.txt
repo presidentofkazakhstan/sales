@@ -1,0 +1,6 @@
+C:\Users\Windows10\source\repos\sales_HM\sales.Models\bin\Debug\sales.Models.dll
+C:\Users\Windows10\source\repos\sales_HM\sales.Models\bin\Debug\sales.Models.pdb
+C:\Users\Windows10\source\repos\sales_HM\sales.Models\obj\Debug\sales.Models.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\sales_HM\sales.Models\obj\Debug\sales.Models.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\sales_HM\sales.Models\obj\Debug\sales.Models.dll
+C:\Users\Windows10\source\repos\sales_HM\sales.Models\obj\Debug\sales.Models.pdb
